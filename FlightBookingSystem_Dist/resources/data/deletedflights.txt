@@ -1,0 +1,4 @@
+2::Lumbini Express::Nepal::China::2025-03-15::78::380.0::6::55.0::100.0
+4::Kanchenjunga Airways::India::Bangladesh::2025-02-17::80::390.0::7::45.0::90.0
+10::Rara Lake Escape::Iran::Malaysia::2024-02-23::84::370.0::5::55.0::100.0
+20::Trekking Trail::Singapore::Malaysia::2025-03-29::84::380.0::7::60.0::105.0

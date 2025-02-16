@@ -1,0 +1,20 @@
+1::ram::9292929::ram@gmail.com::::true
+3::ryea::9803809103::ryeashrestha09@gmail.com::::false
+4::Sanket::9834567890::Sanket.Shrestha@email.com::Assistance required for boarding::false
+5::Ravi::9845678901::ravi.bista@email.com::Extra baggage allowance::false
+6::Maya::9856789012::maya.tamang@email.com::Window seat preference::false
+7::Dinesh::9867890123::dinesh.subedi@email.com::Special meal request::true
+8::Nisha::9878901234::nisha.rai@email.com::Vegan Food::false
+9::Samir::9889012345::samir.gautam@email.com::::false
+10::Rashmi::9890123456::rashmi.chhetri@email.com::::false
+11::Bikash::9801122334::bikash.kumar@email.com::First Class only::true
+12::Komal::9812233445::komal.adhikari@email.com::BusinessClass only::true
+13::Hari::9823344556::hari.chaudhary@email.com::Extra baggage allowance::false
+14::Deepa::9834455667::deepa.sharma@email.com::NonVeg meal request::false
+15::Sunil::9845566778::sunil.karki@email.com::Window seat preference::true
+16::Pooja::9856677889::pooja.magar@email.com::::false
+17::Rajesh::9867788990::rajesh.bhandari@email.com::::true
+18::Sushila::9878899001::sushila.yadav@email.com::::false
+19::Kiran::9889900112::kiran.koirala@email.com::Book Cheapest Flight::true
+20::Chandra::9890011223::chandra.bikram@email.com::::false
+21::sushila::9876543210::binu@gmail.com::qwertyuio::false
